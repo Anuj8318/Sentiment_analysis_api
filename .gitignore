@@ -126,3 +126,6 @@ ecommerce_cv_env
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+.congig.py
+config.py
